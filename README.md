@@ -67,9 +67,7 @@
 
 ### DOOH and KOL Creative — Vina Muliana Production Stills
 
-| | |
-|---|---|
-| ![Vina Still 1](images/campaign3-vina-video-still-1.png) | ![Vina Still 2](images/campaign3-vina-video-still-2.jpg) |
+| ![Vina Still 1](images/campaign3-vina-creative.jpg) |
 
 ### DOOH Outdoor Placements
 
