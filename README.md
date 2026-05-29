@@ -70,7 +70,7 @@
 
 ### DOOH and KOL Creative — Vina Muliana Production Stills
 
-| ![Vina Still 1](images/campaign3-vina-creative.jpg) | ![Vina Still 2](images/vinadigital22.png)| 
+ ![Vina Still 1](images/campaign3-vina-creative.jpg)     ![Vina Still 2](images/VinaDigital22.png)
 
 ### DOOH Outdoor Placements
 
@@ -99,7 +99,7 @@
 
 ### Top-Performing Organic Social & KOL Content
 
-**Owned — [@glintsid](https://www.instagram.com/glintsid/)**
+**Owned Social — [@glintsid](https://www.instagram.com/glintsid/)**
 
 - Organic content centred on two pillars: relatable workplace struggle content and "breaking news" style career advice formatted to stop the scroll
 - Consistent use of bold hooks, quick cuts and text overlays to drive thumb-stop rate and shares, turning organic posts into top-of-funnel acquisition
@@ -111,9 +111,8 @@
 
 **KOL Network**
 
-- In addition to 
-- Briefed creators on viral-native formats (couple skits, relatable drama) with brand integration kept to a punchy close — preserving entertainment value while driving clear TapLoker awareness
-- Selected creators whose organic audiences over-index on blue-collar and fresh-graduate job seekers, matching TapLoker's core acquisition target
+- Briefed creators on viral-native formats (couple skits, relatable drama) with brand integration kept to a punchy close — preserving entertainment value while driving clear brand awareness
+- Selected creators whose organic audiences over-index on blue-collar and fresh-graduate job seekers, matching Glints' core acquisition target
 
 | Creator | Platform | Views | Format |
 |---|---|---|---|
@@ -129,22 +128,22 @@ Employer marketing sits at the intersection of brand credibility, community trus
 
 **Target Segments**
 - **Enterprise accounts** — large corporations (200+ employees) running high-volume frontline hiring (logistics, retail, F&B, manufacturing) where cost-per-hire efficiency and applicant quality are the primary buying criteria. KDMs are usually Talent Acquisition, Human Resources and Operations professionals at Manager level or above
-- **SMEs and UMKMs (family businesses in Indonesia) ** — Growing businesses (1-50 employees) looking for cost-efficient, fast and easy-to-use hiring tools with minimal HR overhead. KDMs are usually business owners themselves
+- **SMEs** — Growing businesses (1-50 employees) looking for cost-efficient, fast and easy-to-use hiring tools with minimal HR overhead. KDMs are usually business owners themselves
 
 ### Events
 
 **Target Audience: Enterprise**
 
-- Hosted and co-hosted 4–5 employer-facing events per quarter reaching 500+ hiring managers and HR decision-makers, including TapConnect Client Insight Dinners and HR community roundtables
-- Kemnaker Talk Show activation placed TapLoker alongside government-endorsed workforce initiatives, building institutional credibility with both enterprise buyers and SME operators
-- HR Community Events facilitated direct peer-to-peer conversations between existing clients and prospects, shortening trust-building in the sales cycle
+- Hosted and co-hosted 4–5 employer-facing events per quarter reaching 500+ hiring managers and HR decision-makers, including TapConnect Client Insight Dinners and HR community roundtables [(link)](https://www.linkedin.com/posts/glints_terima-kasih-kepada-para-hr-leaders-dan-employer-activity-7405179693999644672-2UC8)
+- Kemnaker Talk Show and Job Fair activation placed TapLoker alongside government-endorsed workforce initiatives, building institutional credibility with both enterprise buyers and SME operators [(link)](https://www.instagram.com/reels/DRPH2n3EpoW/)
+- HR Community Events facilitated direct peer-to-peer conversations between existing clients and prospects, shortening trust-building in the sales cycle [(link)](https://www.linkedin.com/posts/glints_cepatdapatyangtepat-activity-7460986677600145408-GXjz)
 
 ### Partnerships
 
 **Target Audience: Enterprise and SMEs**
 
-- Signed a formal **MOU with Kemnaker** (Ministry of Manpower) , covered by [CNN Indonesia](https://www.cnnindonesia.com/) and [IDN Times](https://www.idntimes.com/), establishing TapLoker as a government-aligned platform for national workforce development
-- Active collaboration with **Indonesian SME community networks** — positioning Glints as the hiring platform of choice within local SME ecosystems and trade associations
+- Signed a formal **MOU with Kemnaker** (Ministry of Manpower) and executed direct integration with the nation's official job information protal, covered by [CNN Indonesia](https://www.cnnindonesia.com/ekonomi/20250912162327-625-1273076/glints-taploker-dukung-kemnaker-dorong-digitalisasi-ketenagakerjaan) and [IDN Times](https://www.idntimes.com/business/economy/kemnaker-gandeng-glints-taploker-integrasikan-lowongan-kerja-nasional-00-brqf5-yz6270), establishing TapLoker as a government-aligned platform for national workforce development
+- Active collaboration with 5 **Indonesian SME community networks** including communities backed by State-Owned Enterprises — positioning Glints as the hiring platform of choice within local SME ecosystems and trade associations 
 
 ### PR & Brand Storytelling
 
