@@ -1,4 +1,7 @@
-# Marketing Portfolio **Laurice Wong**
+# Marketing Portfolio 
+
+**Laurice Wong**
+
 👩🏻‍💻Head of Strategy & Marketing @ Glints\
 ⏳Previously Strategy and Finance @ Deliveroo, Investment Banking @ Goldman Sachs\
 🌱Passionate about building solutions for hard problems across domains - I thrive as a generalist and I like to keep my toolkit diverse.
@@ -67,7 +70,7 @@
 
 ### DOOH and KOL Creative — Vina Muliana Production Stills
 
-| ![Vina Still 1](images/campaign3-vina-creative.jpg) | ![Vina Still 1](images/campaign3-vina-creative.jpg) | 
+| ![Vina Still 1](images/campaign3-vina-creative.jpg) | ![Vina Still 2](images/vinadigital22.png)| 
 
 ### DOOH Outdoor Placements
 
