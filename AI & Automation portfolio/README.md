@@ -1,5 +1,4 @@
 # AI & Automation Portfolio
-**Laurice Wong** · Head of Strategy & Marketing, Glints TapLoker · Apr 2024 – Present
 
 ---
 
@@ -26,11 +25,11 @@
 ---
 
 ## 2. Performance Marketing Analytics Automation
-### Claude + Windsor.ai + Airbridge → Real-time reporting & creative analysis
+### Claude + Windsor.ai + Airbridge → Real-time campaign reporting & creative performance analysis
 
-> **Status:** In production at Glints TapLoker (May 2026). Two of three planned automations live; third in development. SKILL.md files to be published to GitHub — link to be added.
+> **Status:** In production at Glints. Two of three planned automations live; third in development. SKILL.md files to be published to GitHub — link to be added.
 
-**The problem:** The performance marketing team was spending 2–4 hours daily on manual reporting — pulling data from Google Ads, Meta Ads, TikTok Ads, and Airbridge (MMP), calculating CPAs and budget absorption, and flagging underperforming creatives.
+**The problem:** The performance marketing team was spending 2–4 hours daily on manual reporting — pulling and reconciling data from Google Ads, Meta Ads, TikTok Ads, and Airbridge (MMP) and calculating CPAs and budget absorption for day-on-day / week-on-week analyses to make budget adjustment decisions. Additionally, creative assets' performance analysis took up significant bandwidth due to the clunky design of the ad platforms' dashboards 
 
 **The solution:** A Claude-based reporting and analysis system connected to all data sources via Windsor.ai (unified API layer) and Airbridge, executing structured analytical workflows via SKILL.md-based instructions.
 
@@ -43,37 +42,25 @@
 
 ### Automation 1: Hourly & Daily Performance Tracker
 
-**What it does:** On demand or scheduled — pulls the full campaign table for the current day up to the current hour: spend by platform, installs, sign-ups, FTA1D. Compares against the same time window last week and yesterday. Calculates budget absorption and flags any metric deviating >10% from guardrails or WoW trend.
+**What it does:** On demand or scheduled — pulls the full campaign table for the current day up to the current hour: spend by platform, installs, sign-ups, and other key user acquisition quality metrics. Compares against the same time window last week and yesterday. Calculates budget absorption and flags any metric deviating markedly from guardrails or WoW trends.
 
 **Data logic:**
-- Spend: Windsor.ai (platform APIs)
-- Installs/Sign-ups/FTA1D: Airbridge (higher attribution confidence than platform-reported)
+- Spend: Windsor.ai (to access ad platform APIs)
+- Installs/Sign-ups/FTA1D: Airbridge (higher attribution confidence than ads platform native reporting)
 - CPI = Windsor spend / Airbridge installs
-- DoD and WoW comparisons filtered to same-hour window
+- DoD and WoW comparisons filtered to same-hour window, with automated campaign strategy adjustment recommendations that can be referenced by performance marketer 
 
-**Status:** Live. Known issue: Meta spend occasionally mismatches platform dashboard (Windsor schema mismatch — in debug). *[GitHub link — to add]*
+**Status:** Live. *[GitHub link — to add]*
 
 ---
 
 ### Automation 2: Creative Asset Performance Analysis
 
-**What it does:** Weekly pull of all active ad assets across Meta and Google — headline, copy, creative type, CTR, CPI, cost — benchmarked against the median for each asset type. Flags underperformers and surfaces top performers for replication brief.
+**What it does:** Weekly pull of all active ad assets across Meta and Google — headline, copy, creative type, CTR, CPI, cost. Performance is benchmarked against the median for each asset type. Flags underperformers and surfaces top performers for replication briefs.
 
-**Why this matters:** At scale (30+ active creatives across 3 platforms), manual asset review takes a full afternoon per week. This reduces it to a 15-minute review of flagged items.
+**Why this matters:** At scale (30+ active creatives across 3 platforms refreshed biweekly), manual asset review takes a full afternoon per week. This reduces it to a 15-minute review of flagged items.
 
-**Status:** Live for Meta and Google. Google headline extraction limited by API — workaround in testing. *[GitHub link — to add]*
-
----
-
-### Automation 3: AI-Assisted Copywriting Generation *(In Development)*
-
-Feed Claude brand guidelines + top-performing copy examples + guardrails → generate a batch of alternative copy variants → output as CSV for direct upload to platform ad managers.
-
----
-
-### Automation 4: Repetitive Creative Asset Processing *(Aspirational)*
-
-AI image models to batch-process repetitive creative tasks — removing QR codes, replacing logos, resizing across aspect ratios. Currently evaluating GPT image editing vs. Canva batch processing.
+**Status:** Live for Meta and Google. *[GitHub link — to add]*
 
 ---
 
