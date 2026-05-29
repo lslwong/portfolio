@@ -1,34 +1,34 @@
 # Marketing Portfolio **Laurice Wong**
 👩🏻‍💻Head of Strategy & Marketing @ Glints\
 ⏳Previously Strategy and Finance @ Deliveroo, Investment Banking @ Goldman Sachs\
-🌱Passionate about building solutions for difficult problems across domains - I like to keep my toolkit diverse.
+🌱Passionate about building solutions for hard problems across domains - I thrive as a generalist and I like to keep my toolkit diverse.
 
 ---
 
-🚀 Building Southeast Asia's fastest growing job app at Glints. Created for the region's young and mobile-first workforce and entrepreneurs, our app recognises that direct accessibility and simplicity mattered the most to our users (most of whom are approaching jobseeking and hiring via online channels for the first time in their lives), leading us to pioneer an in-app chat-based hiring process.
-
-🚀 Jobseeking is a long-cycle behaviour that requires significant brand trust. We chose to focus on building a brand narrative combining relatable everyday career struggles and practical jobseeking advice and solutions, led by social media channels, to reach our audiences at every point of their daily working experiences.
+🚀 Building Southeast Asia's fastest growing job app at Glints. Created for the region's young and mobile-first workforce and entrepreneurs, our app recognises that direct accessibility and simplicity mattered the most to our users (most of whom are approaching jobseeking and hiring via online channels for the first time in their lives). This led  us to pioneer the region's first in-app chat-based hiring process.
 
 ---
 
 # Candidate Marketing
 
-## Overall Platform Results (2024–2026)
+✍️ On the consumer side, jobseeking is a long-cycle, non-incentivizable consumer behaviour that requires significant brand trust. We chose to focus on building a brand narrative combining relatable everyday career struggles and practical jobseeking advice and solutions, led by social media channels, to reach our audiences at every point of their daily working experiences.
 
-| Metric | Start | Now |
+## Overall Platform Results (2 year tenure as Head oF Strategy / Marketing)
+
+| Metric | Before | Now |
 |---|---|---|
-| Monthly Active Users | ~1M | **3M+** (3x) |
+| Monthly Active Users | ~1M | **3M+** (3x, became market leader) |
 | Blended Cost per Install | ~$0.13–0.17 | **$0.07** (-50%) |
 | Market position (Indonesia) | #3 | **#1** most downloaded job app |
 | Monthly brand content impressions | ~50M | **400M+** (8x) |
 | Social media followers | ~700K | **2M+** (3x) |
 | % of Organic Installs | ~30% | **70%+** (>2x) |
 
-**Key Growth Levers**
-1. Restructured
-2. Consolidated social media focus
-3. Built KOL strategy from scratch
-4. Developed brand strategy and brand refresh
+**Growth Highlights**
+1. Significantly simplified performance marketing campaign structure, built sustainable creative production flow to ensure strong creative testing and variation to drive down acquisition costs 
+2. Doubled down on organic social media through data-bsaed content strategy refinement. Built 2 new viral IG and TT accounts    
+3. Built KOL strategy from scratch to ~20M+ views monthly and reducing CPM by 80% over 2 years
+4. Led major rebranding effort and developed Glints’ first brand messaging framework 
 
 ---
 
@@ -37,21 +37,21 @@
 ### 2026 H1 Post-Lebaran · March–May 2026
 
 **Why**
-- Glints had reached #1 market position in Indonesia but needed to consolidate lead: close the gap on Jobstreet's install volume and MAU, and land a durable brand positioning beyond "another job app"
-- Previous campaigns proved that brand awareness investment drives cheaper acquisition downstream. We continued to push towards a sustainable, less paid-dependent acquisition model. Armed with market leadership, 2026 was the year to scale that thesis with a landmark brand campaign with a national KOL to increase product penetration
+- Glints had reached #1 market position in Indonesia but needed to consolidate lead, and land a durable and differentiated brand positioning beyond "another job app", while hiring Indonesia's top career KOL Vina Muliana (10M+ TT followers) to build trust among the mass market audience
+- Previous campaigns proved that brand awareness investment drives cheaper acquisition downstream. We opted to  push towards a sustainable, less paid-dependent acquisition model. Armed with market leadership, we scaled that thesis with a landmark brand campaign with a national KOL to increase product penetration
 - Advocated Glints' key product differentiator as the "fastest job app", built on strong observed user sentiment confirming the speed of receiving updates via our chat-to-apply feature as strongest product benefit (vs traditional job portals, where candidates often never hear back)
 
 **Target Audience**
 - Indonesian job seekers aged 18–34 across low-white collar, service and blue collar workers
-- Targeted commuter and mudik-travel audiences via DOOH at major train stations — people in physical "waiting" moments during transit. Lebaran travel moment created a unique context for DOOH: millions of commuters and mudik travellers with idle time, directly captured by "waiting for train = apply to 5 jobs" messaging
+- Targeted commuter and Mudik travel audiences via DOOH at major train stations — people in physical "waiting" moments during transit. Lebaran travel moment created a unique context for DOOH: millions of commuters and Mudik travellers with idle time, directly captured by "waiting for train = apply to jobs" messaging to contextualise the app's speed
 
 **Strategy**
-- Two-phase comms: *Awareness* ("fastest job search") used micro-moment copywriting tied to everyday wait times; *Conversion* shifted to feature-specific pain-point storytelling with Vina's HR credibility as anchor
-- Signed Vina Muliana (Indonesia's top HR-professional content creator with 10M+ followers) for 4 dedicated TikTok product videos (one per feature: 1-Tap Apply, Chat with HR, FYP, Jobs Nearby), DOOH usage rights, and IG Live CV review session
+- Two-phase comms: *Awareness* ("fastest job search") used micro-moment copywriting tied to everyday wait times in congested Jakarata; *Conversion* shifted to feature-specific pain-point storytelling with Vina's HR credibility as anchor
+- Signed Vina for 4 dedicated TikTok product videos (one per feature: 1-Tap Apply, Chat with HR, FYP, Jobs Nearby), DOOH usage rights, and IG Live CV review session
 - Introduced three novel formats not used in prior campaigns:
-  - **DOOH** at 10 commuter/mudik train stations and road sites — contextual placement at moments of maximum idle time
-  - **Roblox gamification** — 14-day branded fishing game tied to job roles; unlocked in-game CV review on completion (42K DAP target; 2.8M impressions W1–2)
-  - **Sticker branding** at universities, bus stops, ojek helmets — created persistent "waiting = apply" brand association at low cost boosted by UGC and buzzer campaign to drive social media discussion
+  - **DOOH** at 10 commuter / Mudik train stations and road sites — contextual placement at moments of maximum idle time
+  - **Roblox gamification** — 14-day branded viralfishing game tied to jobseeking process with custom auras and special items that drove viral UGC content and X / Threads organic discussions (42K DAU; ~4M total impressions)
+  - **Sticker branding** at universities, bus stops, ojek helmets — created persistent "waiting = apply" brand association at low cost boosted by UGC and buzzer campaign to drive social media buzz
 
 **Campaign KPIs & Budget**
 
@@ -59,15 +59,15 @@
 |---|---|---|
 | Total brand content impressions | 425M at $0.16 blended CPM | 660M at $0.13 blended CPM |
 | Installs | 2x 2025 peak | Achieved |
-| App MAU | 2.5–3M | Achieved and significantly leading closest competitor |
+| App MAU | 2.5–3M | Achieved and exceeded closest competitor by May 2026 |
 
-*~40% ahead of 2025 equivalent weeks on install velocity. Vina's organic content garnered >6M impressions. Roblox: 2.8M impressions in 2 weeks supported by organic UGC.*
+*~40% ahead of 2025 equivalent weeks on install velocity. Vina's organic content garnered >6M impressions.*
 
 ---
 
 ### DOOH and KOL Creative — Vina Muliana Production Stills
 
-| ![Vina Still 1](images/campaign3-vina-creative.jpg) |
+| ![Vina Still 1](images/campaign3-vina-creative.jpg) | ![Vina Still 1](images/campaign3-vina-creative.jpg) | 
 
 ### DOOH Outdoor Placements
 
@@ -90,7 +90,7 @@
 | Product Feature | Views | Content Highlights |
 |---|---|---|
 | [Chat with HR](https://www.tiktok.com/@vmuliana/video/7625949411507490055?lang=en) | 6.8M | Interview tips for lower collar workers |
-| [For You Page](https://www.tiktok.com/@vmuliana/video/7636376957734636808?lang=en) | 5.3M | Salary level review for high school and vocational school graduates |
+| [For You Page](https://www.tiktok.com/@vmuliana/video/7636376957734636808?lang=en) | 5.3M | Salary leves overview for high school and vocational school graduates |
 
 ---
 
@@ -108,14 +108,15 @@
 
 **KOL Network**
 
+- In addition to 
 - Briefed creators on viral-native formats (couple skits, relatable drama) with brand integration kept to a punchy close — preserving entertainment value while driving clear TapLoker awareness
 - Selected creators whose organic audiences over-index on blue-collar and fresh-graduate job seekers, matching TapLoker's core acquisition target
 
 | Creator | Platform | Views | Format |
 |---|---|---|---|
-| [@kn_karisnatalia](https://www.tiktok.com/@kn_karisnatalia/video/7623336302959693074) | TikTok | 3.3M | Humorous couple skit |
-| [@arasenata](https://www.tiktok.com/@arasenata/video/7630756324459957525?lang=en) | TikTok | 1.7M | Short drama |
-| [@josephalexandertan](https://www.instagram.com/reels/DWgEgFcTm94/) | Instagram | 1M | Humour skit |
+| [@kn_karisnatalia](https://www.tiktok.com/@kn_karisnatalia/video/7623336302959693074) | TikTok | 3.3M | Viral couple's comedy skit |
+| [@arasenata](https://www.tiktok.com/@arasenata/video/7630756324459957525?lang=en) | TikTok | 1.7M | Romance-based short drama |
+| [@josephalexandertan](https://www.instagram.com/reels/DWgEgFcTm94/) | Instagram | 1M | Viral persona's humorous skit |
 
 ---
 
@@ -124,10 +125,12 @@
 Employer marketing sits at the intersection of brand credibility, community trust, and enterprise pipeline — positioning TapLoker as the go-to hiring platform for high-volume frontline roles.
 
 **Target Segments**
-- **Enterprise accounts** — large corporations running high-volume frontline hiring (logistics, retail, F&B, manufacturing) where cost-per-hire efficiency and applicant quality are the primary buying criteria
-- **SMEs** — growing businesses looking for cost-efficient, easy-to-use hiring tools with minimal HR overhead
+- **Enterprise accounts** — large corporations (200+ employees) running high-volume frontline hiring (logistics, retail, F&B, manufacturing) where cost-per-hire efficiency and applicant quality are the primary buying criteria. KDMs are usually Talent Acquisition, Human Resources and Operations professionals at Manager level or above
+- **SMEs and UMKMs (family businesses in Indonesia) ** — Growing businesses (1-50 employees) looking for cost-efficient, fast and easy-to-use hiring tools with minimal HR overhead. KDMs are usually business owners themselves
 
 ### Events
+
+**Target Audience: Enterprise**
 
 - Hosted and co-hosted 4–5 employer-facing events per quarter reaching 500+ hiring managers and HR decision-makers, including TapConnect Client Insight Dinners and HR community roundtables
 - Kemnaker Talk Show activation placed TapLoker alongside government-endorsed workforce initiatives, building institutional credibility with both enterprise buyers and SME operators
@@ -135,12 +138,15 @@ Employer marketing sits at the intersection of brand credibility, community trus
 
 ### Partnerships
 
-- Signed a formal **MOU with Kemnaker** (Ministry of Manpower), covered by [CNN Indonesia](https://www.cnnindonesia.com/) and [IDN Times](https://www.idntimes.com/), establishing TapLoker as a government-aligned platform for national workforce development
-- Active collaboration with **SME community networks** — positioning TapLoker as the hiring platform of choice within high-density SME ecosystems and trade associations
+**Target Audience: Enterprise and SMEs**
+
+- Signed a formal **MOU with Kemnaker** (Ministry of Manpower) , covered by [CNN Indonesia](https://www.cnnindonesia.com/) and [IDN Times](https://www.idntimes.com/), establishing TapLoker as a government-aligned platform for national workforce development
+- Active collaboration with **Indonesian SME community networks** — positioning Glints as the hiring platform of choice within local SME ecosystems and trade associations
 
 ### PR & Brand Storytelling
 
-- Kemnaker MOU announcement generated earned media in national digital outlets, reinforcing TapLoker's position as a trusted, government-partnered platform — a key trust signal in enterprise and government-linked employer sales
+**Target Audience: Enterprise**
+- Kemnaker MOU announcement generated earned media in national digital outlets, reinforcing Glints' position as a trusted, government-partnered platform — a key trust signal in enterprise and government-linked employer sales. Subsequent to 
 - LinkedIn content strategy targets HR leaders and C-suite with data-led narratives on frontline hiring trends, talent availability, and cost-of-vacancy — converting brand awareness into inbound enterprise leads
 
 ### GTM Strategy
