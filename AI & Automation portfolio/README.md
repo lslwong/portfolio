@@ -3,7 +3,7 @@
 ---
 
 ## 1. Employer Onboarding Conversational Agent
-### ElevenLabs TTS + STT → Conversational AI workflow
+### ElevenLabs TTS + STT → Conversational AI Employer Onboarding and Job Opening Creation Workflow
 
 **GitHub:** https://github.com/lslwong/employerconvoagent
 
@@ -13,14 +13,12 @@
 
 **Architecture:**
 - **Input:** Employer speaks responses during onboarding call
-- **STT:** ElevenLabs STT transcribes in real-time
-- **LLM layer:** Processes inputs, handles follow-ups and clarifications
-- **TTS:** ElevenLabs TTS delivers questions and confirmations in a natural voice
-- **Output:** Structured employer profile JSON → CRM / sales workflow
+- **STT:** ElevenLabs STT transcribes in real-time and allows employer to confirm the input via text. In future versions, I'd design it so that the employer doesn't need to see the transcription and approve it so it feels like a normal call.
+-  **LLM layer:** Processes inputs, handles follow-ups and clarifications. Currently, the LLM layer struggles a bit with speed due to the lower-tier reasoning model that we've hooked it up to. 
+- **TTS:** ElevenLabs TTS delivers questions and confirmations in a natural, conversational Indonesian female [voice](https://elevenlabs.io/app/voice-library?voiceId=JaUVfDrFcfwGIsv8X2kN). I've deliberately avoided overly corporate / professional sounding voices and opted for a friendlier, everyday voice as it tested well for local SME owners who'd like to speak to a "real person"; overly coroporate personas intimidate them. 
+- **Output:** Job listing sample created according to employer-provided information for employer review > app download flow to complete posting. Additionally, a structured employer profile JSON can be sent to our CRM / sales workflow directly after the conversation ends. 
 
-**Demo video:** *(link to be added)*
-
-*(Full technical documentation and setup guide in the GitHub repo above)*
+**Demo video** [here](https://drive.google.com/file/d/1IqXgyIZfvzobh8gvraMpj5Gs6qJg4wIU/view?usp=drive_link)
 
 ---
 
@@ -40,7 +38,7 @@
 
 ---
 
-### Automation 1: Hourly & Daily Performance Tracker
+### Automation 1: Claude Hourly & Daily Performance Tracker Skill
 
 **What it does:** On demand or scheduled — pulls the full campaign table for the current day up to the current hour: spend by platform, installs, sign-ups, and other key user acquisition quality metrics. Compares against the same time window last week and yesterday. Calculates budget absorption and flags any metric deviating markedly from guardrails or WoW trends.
 
@@ -50,17 +48,17 @@
 - CPI = Windsor spend / Airbridge installs
 - DoD and WoW comparisons filtered to same-hour window, with automated campaign strategy adjustment recommendations that can be referenced by performance marketer 
 
-**Status:** Live. *[GitHub link — to add]*
+**Status:** Live. Github link [here](https://github.com/lslwong/performancemarketingdailydashboard/).
 
 ---
 
-### Automation 2: Creative Asset Performance Analysis
+### Automation 2: Creative Asset Performance Analysis, hosted on as a web app on Vercel
 
 **What it does:** Weekly pull of all active ad assets across Meta and Google — headline, copy, creative type, CTR, CPI, cost. Performance is benchmarked against the median for each asset type. Flags underperformers and surfaces top performers for replication briefs.
 
 **Why this matters:** At scale (30+ active creatives across 3 platforms refreshed biweekly), manual asset review takes a full afternoon per week. This reduces it to a 15-minute review of flagged items.
 
-**Status:** Live for Meta and Google. *[GitHub link — to add]*
+**Status:** Live for Meta and Google. Link [here](https://asset-analysis-glints.vercel.app/).
 
 ---
 
@@ -72,7 +70,7 @@
 
 **Why:** Glints has strong KOL production capabilities in Indonesia but limited localised content for Singapore. Dubbing with voice cloning is significantly faster and cheaper than reshooting with local talent.
 
-*(Asset link — to be added)*
+Vina Muliana viral video dubbed in her own voice in English, using the latest Elevenlabs v2 Dubbing Model, link [here](https://drive.google.com/file/d/1svKFVwOzheGcQsLzKPIpYhQb6m_obCYm/view?usp=drive_link). I found that with the new v2 UI, it was more difficult to fine tune the quality directly, and there were some inconsistencies with regards to background audio treatment at the start vs. the end of the video when dubbing quality significantly improved. I'm still investigating what's driving this. 
 
 ---
 
@@ -82,7 +80,7 @@
 
 **Why this matters:** A marketer using their own voice as a replicable content asset — consistent voice identity across high-volume social content without recording every piece individually.
 
-*(Asset link — to be added)*
+Namibia fly-in safari marketing video link [here](https://drive.google.com/file/d/1xYttCCbragJntypcw-hrzrO5417TIhFV/view?usp=sharing).
 
 ---
 
