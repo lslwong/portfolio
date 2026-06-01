@@ -153,7 +153,7 @@ Employer marketing sits at the intersection of brand credibility, community trus
 
 ### GTM Strategy
 
-- **Enterprise track:** Account-based outreach targeting high-volume hirers in logistics, retail, and manufacturing — leads are warmed via events and thought leadership before handoff to sales; value prop centres on applicant volume, quality, and cost-per-hire vs. competitors
+- **Enterprise track:** Account-based outreach targeting high-volume hirers in logistics, retail, outsourcing / HR and manufacturing. Built leads are warmed via events and thought leadership; built follow-up Whatsapp and email loops to provide additional data packs and learning resources. Product value prop centres on much lower cost-per-hir, higher applicant volume and quality  vs. competitors
 - **SME track:** Community-led growth through partnership channels and social proof — SME buyers are acquired via peer referral within community networks, then converted through self-serve onboarding and direct sales follow-up for accounts with >10 open roles
 
 ---
