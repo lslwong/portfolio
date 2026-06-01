@@ -7,7 +7,7 @@
 
 **GitHub:** https://github.com/lslwong/employerconvoagent
 
-**What it is:** A voice-based conversational agent that replaces Glints' employer onboarding form flow. New employer leads conduct a structured intake conversation via voice — the agent collects company details, hiring needs, candidate profile, and urgency — and outputs a structured JSON summary for the sales team.
+**What it is:** A voice-based conversational agent that replaces Glints' employer onboarding form flow. New employer leads conduct a structured intake conversation via voice — the agent collects company details, hiring needs, candidate profile, and urgency — and outputs a completed sample job posting for the employer to preview plus a CTA to download the app and complete the posting action. Secondly, a structured JSON summary for the sales team is generated and can be patched directly into the CRM for further follow-up.
 
 **Why ElevenLabs:** ElevenLabs TTS handles the agent's voice output; STT captures employer responses in real-time. Voice quality was the deciding factor — a robotic voice in a sales-adjacent context creates friction and drives drop-off. A human-sounding voice creates trust and keeps employers on the call. The STT loop makes the interaction genuinely conversational rather than form-filling with a voice UI.
 
@@ -66,9 +66,9 @@
 
 ### 3a. KOL Content Dubbing — Indonesian to Singaporean English
 
-**What it is:** KOL content originally produced in Bahasa Indonesia, dubbed into Singaporean English using ElevenLabs Studio for Glints' Singapore employer marketing.
+**What it is:** Mega KOL content originally produced in Bahasa Indonesia, dubbed into Indonesianpaccented English using ElevenLabs Studio that has high fidelity to the original KOL's voice. 
 
-**Why:** Glints has strong KOL production capabilities in Indonesia but limited localised content for Singapore. Dubbing with voice cloning is significantly faster and cheaper than reshooting with local talent.
+**Why:** Glints has strong KOL production capabilities in Indonesia but limited localised content for Singapore and Malaysia. Dubbing with voice cloning is significantly faster and cheaper than reshooting with local talent.
 
 Vina Muliana viral video dubbed in her own voice in English, using the latest Elevenlabs v2 Dubbing Model, link [here](https://drive.google.com/file/d/1svKFVwOzheGcQsLzKPIpYhQb6m_obCYm/view?usp=drive_link). I found that with the new v2 UI, it was more difficult to fine tune the quality directly, and there were some inconsistencies with regards to background audio treatment at the start vs. the end of the video when dubbing quality significantly improved. I'm still investigating what's driving this. 
 
