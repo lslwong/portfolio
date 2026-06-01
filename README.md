@@ -50,11 +50,12 @@
 
 **Strategy**
 - Two-phase comms: *Awareness* ("fastest job search") used micro-moment copywriting tied to everyday wait times in congested Jakarata; *Conversion* shifted to feature-specific pain-point storytelling with Vina's HR credibility as anchor
-- Signed Vina for 4 dedicated TikTok product videos (one per feature: 1-Tap Apply, Chat with HR, FYP, Jobs Nearby), DOOH usage rights, and IG Live CV review session
+- Signed Vina Muliana for 4 dedicated TikTok product videos (one per feature: 1-Tap Apply, Chat with HR, FYP, Jobs Nearby), DOOH usage rights, and IG Live CV review session
 - Introduced three novel formats not used in prior campaigns:
   - **DOOH** at 10 commuter / Mudik train stations and road sites — contextual placement at moments of maximum idle time
   - **Roblox gamification** — 14-day branded viralfishing game tied to jobseeking process with custom auras and special items that drove viral UGC content and X / Threads organic discussions (42K DAU; ~4M total impressions)
   - **Sticker branding** at universities, bus stops, ojek helmets — created persistent "waiting = apply" brand association at low cost boosted by UGC and buzzer campaign to drive social media buzz
+ - Doubled scale of existing organic content channels and performance marketing with refreshed brand content and creatives to push for maximum brand awareness and install volume
 
 **Campaign KPIs & Budget**
 
@@ -79,16 +80,9 @@
 | ![Highway DOOH](images/campaign3-dooh-road.jpg) | ![Train Station DOOH](images/campaign3-dooh-station.jpg) |
 | *Highway / arterial road placement* | *Commuter train station placement* |
 
-### Campaign Video
-
-<video width="100%" controls>
-  <source src="images/campaign3-dooh-video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
 ---
 
-### Vina TikTok Content
+### Top-Performing Vina Muliana TikTok Content
 
 | Product Feature | Views | Content Highlights |
 |---|---|---|
@@ -148,7 +142,7 @@ Employer marketing sits at the intersection of brand credibility, community trus
 ### PR & Brand Storytelling
 
 **Target Audience: Enterprise**
-- Kemnaker MOU announcement generated earned media in national digital outlets, reinforcing Glints' position as a trusted, government-partnered platform — a key trust signal in enterprise and government-linked employer sales. Subsequent to 
+- Kemnaker MOU announcement generated earned media in national digital outlets, reinforcing Glints' position as a trusted, government-partnered platform — a key trust signal in enterprise and government-linked employer sales
 - LinkedIn content strategy targets HR leaders and C-suite with data-led narratives on frontline hiring trends, talent availability, and cost-of-vacancy — converting brand awareness into inbound enterprise leads
 
 ### GTM Strategy
