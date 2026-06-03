@@ -5,7 +5,7 @@
 ## 1. Employer Onboarding Conversational Agent
 ### ElevenLabs TTS + STT → Conversational AI Employer Onboarding and Job Opening Creation Workflow
 
-**GitHub:** https://github.com/lslwong/employerconvoagent
+**GitHub:** https://github.com/lslwong/employerconvoagent\
 **Demo video** [here](https://drive.google.com/file/d/1IqXgyIZfvzobh8gvraMpj5Gs6qJg4wIU/view?usp=drive_link)
 
 **What it is:** A voice-based conversational agent that replaces Glints' employer onboarding form flow. New employer leads conduct a structured intake conversation via voice — the agent collects company details, hiring needs, candidate profile, and urgency — and outputs a completed sample job posting for the employer to preview plus a CTA to download the app and complete the posting action. Secondly, a structured JSON summary for the sales team is generated and can be patched directly into the CRM for further follow-up.
