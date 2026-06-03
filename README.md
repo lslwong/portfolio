@@ -23,7 +23,7 @@
 | Monthly Active Users | ~1M | **3M+** (3x, became market leader) |
 | Blended Cost per Install | ~$0.13–0.17 | **$0.07** (-50%) |
 | Market position (Indonesia) | #3 | **#1** most downloaded job app |
-| Monthly brand content impressions | ~50M | **400M+** (8x) |
+| Monthly brand content impressions | ~50M | **660M+** (13x) |
 | Social media followers | ~700K | **2M+** (3x) |
 | % of Organic Installs | ~30% | **70%+** (>2x) |
 
