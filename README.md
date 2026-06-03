@@ -118,7 +118,7 @@
 
 # Employer Marketing
 
-Employer marketing sits at the intersection of brand credibility, community trust, and enterprise pipeline — positioning TapLoker as the go-to hiring platform for high-volume frontline roles.
+Employer marketing sits at the intersection of brand credibility, community trust, and enterprise pipeline — positioning Glints as the go-to hiring platform for high-volume frontline roles.
 
 **Target Segments**
 - **Enterprise accounts** — large corporations (200+ employees) running high-volume frontline hiring (logistics, retail, F&B, manufacturing) where cost-per-hire efficiency and applicant quality are the primary buying criteria. KDMs are usually Talent Acquisition, Human Resources and Operations professionals at Manager level or above
@@ -129,14 +129,14 @@ Employer marketing sits at the intersection of brand credibility, community trus
 **Target Audience: Enterprise**
 
 - Hosted and co-hosted 4–5 employer-facing events per quarter reaching 500+ hiring managers and HR decision-makers, including TapConnect Client Insight Dinners and HR community roundtables [(link)](https://www.linkedin.com/posts/glints_terima-kasih-kepada-para-hr-leaders-dan-employer-activity-7405179693999644672-2UC8)
-- Kemnaker Talk Show and Job Fair activation placed TapLoker alongside government-endorsed workforce initiatives, building institutional credibility with both enterprise buyers and SME operators [(link)](https://www.instagram.com/reels/DRPH2n3EpoW/)
+- Kemnaker Talk Show and Job Fair activation placed Glints alongside government-endorsed workforce initiatives, building institutional credibility with both enterprise buyers and SME operators [(link)](https://www.instagram.com/reels/DRPH2n3EpoW/)
 - HR Community Events facilitated direct peer-to-peer conversations between existing clients and prospects, shortening trust-building in the sales cycle [(link)](https://www.linkedin.com/posts/glints_cepatdapatyangtepat-activity-7460986677600145408-GXjz)
 
 ### Partnerships
 
 **Target Audience: Enterprise and SMEs**
 
-- Signed a formal **MOU with Kemnaker** (Ministry of Manpower) and executed direct integration with the nation's official job information protal, covered by [CNN Indonesia](https://www.cnnindonesia.com/ekonomi/20250912162327-625-1273076/glints-taploker-dukung-kemnaker-dorong-digitalisasi-ketenagakerjaan) and [IDN Times](https://www.idntimes.com/business/economy/kemnaker-gandeng-glints-taploker-integrasikan-lowongan-kerja-nasional-00-brqf5-yz6270), establishing TapLoker as a government-aligned platform for national workforce development
+- Signed a formal **MOU with Kemnaker** (Ministry of Manpower) and executed direct integration with the nation's official job information protal, covered by [CNN Indonesia](https://www.cnnindonesia.com/ekonomi/20250912162327-625-1273076/glints-taploker-dukung-kemnaker-dorong-digitalisasi-ketenagakerjaan) and [IDN Times](https://www.idntimes.com/business/economy/kemnaker-gandeng-glints-taploker-integrasikan-lowongan-kerja-nasional-00-brqf5-yz6270), establishing Glints as a government-aligned platform for national workforce development
 - Active collaboration with 5 **Indonesian SME community networks** including communities backed by State-Owned Enterprises — positioning Glints as the hiring platform of choice within local SME ecosystems and trade associations 
 
 ### PR & Brand Storytelling
