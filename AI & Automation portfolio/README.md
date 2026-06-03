@@ -76,7 +76,7 @@ Vina Muliana viral video dubbed in her own voice in English, using the latest El
 
 ### 3b. Voice Clone — Aterra Social Media Marketing Voiceover
 
-**What it is:** A voiceover for Aterra's social media marketing content produced using a voice clone of my own voice built in ElevenLabs Studio.
+**What it is:** A voiceover for Aterra's social media marketing content produced using a voice clone of my own voice built in ElevenLabs Studio. Aterra is my friend's luxury travel agency. 
 
 **Why this matters:** A marketer using their own voice as a replicable content asset — consistent voice identity across high-volume social content without recording every piece individually.
 
