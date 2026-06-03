@@ -25,7 +25,7 @@
 ## 2. Performance Marketing Analytics Automation
 ### Claude + Windsor.ai + Airbridge → Real-time campaign reporting & creative performance analysis
 
-> **Status:** In production at Glints. Two of three planned automations live; third in development. SKILL.md files to be published to GitHub — link to be added.
+> **Status:** In production at Glints. Two of three planned automations live; third in development. 
 
 **The problem:** The performance marketing team was spending 2–4 hours daily on manual reporting — pulling and reconciling data from Google Ads, Meta Ads, TikTok Ads, and Airbridge (MMP) and calculating CPAs and budget absorption for day-on-day / week-on-week analyses to make budget adjustment decisions. Additionally, creative assets' performance analysis took up significant bandwidth due to the clunky design of the ad platforms' dashboards 
 
