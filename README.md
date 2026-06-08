@@ -16,7 +16,7 @@
 
 ✍️ On the consumer side, jobseeking is a long-cycle, non-incentivizable consumer behaviour that requires significant brand trust. We chose to focus on building a brand narrative combining relatable everyday career struggles and practical jobseeking advice and solutions, led by social media channels, to reach our audiences at every point of their daily working experiences.
 
-## Overall Platform Results (2 year tenure as Head oF Strategy / Marketing)
+## Overall Platform Results (2 year tenure as Head of Strategy & Marketing)
 
 | Metric | Before | Now |
 |---|---|---|
@@ -28,8 +28,8 @@
 | % of Organic Installs | ~30% | **70%+** (>2x) |
 
 **Growth Highlights**
-1. Significantly simplified performance marketing campaign structure, built sustainable creative production flow to ensure strong creative testing and variation to drive down acquisition costs 
-2. Doubled down on organic social media through data-bsaed content strategy refinement. Built 2 new viral IG and TT accounts    
+1. Significantly simplified performance marketing campaign structure, built sustainable creative production flow to ensure strong creative testing and variation to drive down paid acquisition costs by 50%
+2. Doubled down on organic social media through data-bsaed content strategy refinement. Built 2 new viral IG and TT accounts and grew volume of organic installs by 2-3x, share of organic installs by ~30-35ppt     
 3. Built KOL strategy from scratch to ~20M+ views monthly and reducing CPM by 80% over 2 years
 4. Led major rebranding effort and developed Glints’ first brand messaging framework 
 
