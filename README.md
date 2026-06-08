@@ -40,7 +40,7 @@
 ### 2026 H1 Post-Lebaran · March–May 2026
 
 **Why**
-- Glints had reached #1 market position in Indonesia but needed to consolidate lead, and land a durable and differentiated brand positioning beyond "another job app", while hiring Indonesia's top career KOL Vina Muliana (10M+ TT followers) to build trust among the mass market audience
+- Glints had reached #1 market position in Indonesia but needed to consolidate lead, and land a durable and differentiated brand positioning beyond "another job app". Hired Indonesia's top career KOL Vina Muliana (10M+ TT followers) to build trust among the mass market audience
 - Previous campaigns proved that brand awareness investment drives cheaper acquisition downstream. We opted to  push towards a sustainable, less paid-dependent acquisition model. Armed with market leadership, we scaled that thesis with a landmark brand campaign with a national KOL to increase product penetration
 - Advocated Glints' key product differentiator as the "fastest job app", built on strong observed user sentiment confirming the speed of receiving updates via our chat-to-apply feature as strongest product benefit (vs traditional job portals, where candidates often never hear back)
 
